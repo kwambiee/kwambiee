@@ -15,4 +15,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anathaynafranca/)](https://www.linkedin.com/in/joy-kwamboka)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/anadehavaiana)](https://twitter.com/kwambiee)
 
+
+[![Kwamboka GitHub stats](https://github-readme-stats.vercel.app/api?username=kwambiee)](https://github.com/kwambiee/github-readme-stats)
+
 ⭐️ From [anathayna](https://github.com/anathayna)
