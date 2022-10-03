@@ -1,4 +1,4 @@
-  <img src="https://user-images.githubusercontent.com/62090797/193512861-63022715-3caa-4335-a3bc-3b3111b79e28.png" />
+  ![Snap](https://user-images.githubusercontent.com/62090797/193522937-11500f26-d25e-4502-b7c8-6db87025dbd1.png)
 
 <h2> Get in Touch</h2>
   
