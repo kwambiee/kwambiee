@@ -1,7 +1,7 @@
   ![Snap](https://user-images.githubusercontent.com/62090797/193522937-11500f26-d25e-4502-b7c8-6db87025dbd1.png)
 
 <h2> Get in Touch</h2>
-  
+
    <a href="https://www.linkedin.com/in/joy-kwamboka/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Kwambiee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
@@ -9,6 +9,8 @@
     <img alt="Twitter" src="https://img.shields.io/badge/Kwambiee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a> 
   <a href="kwambokaj2.jk@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<p>
+	<img src="https://komarev.com/ghpvc/?username=kwambiee&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me:
