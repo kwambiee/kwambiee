@@ -17,8 +17,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>💡 &nbsp;I like to solve algorithmic problems or work on my side project during my free time.</p>
-
+<p>⚙️ &nbsp;I have a drive to solve algorithmic problems.</p>
+<p>💡 &nbsp;In my free time, I like to work on my side project.</p>
+<p>💻 &nbsp; I love building projects and learning new skills. You can have a look at my 👉<a href="https://kwambiee.github.io/First-Portfolio/">portfolio </a>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
 <p>🧩 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1wC49POJ5qwsuZOWT2Wrm2f01PqblMjOYejJngk4cDps/edit?usp=sharing">Résumé</a> for more details about me.</p>
 
@@ -66,8 +67,8 @@
 ## 📕 Pinned Repositories
 
 <p align="center">
-	<a href="https://github.com/kwambiee/First-Portfolio">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwambiee&repo=First-Portfolio&hide_border=true&theme=dark&show_icons=true" />
+	<a href="https://github.com/kwambiee/beauty-parlour">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwambiee&repo=beauty-parlour&hide_border=true&theme=dark&show_icons=true" />
 	</a>
 	<a href="https://github.com/kwambiee/yatch-house-front-end">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kwambiee&repo=yatch-house-front-end&hide_border=true&theme=dark&show_icons=true" />
