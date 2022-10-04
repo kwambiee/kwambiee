@@ -7,11 +7,13 @@
   </a> 
   <a href="https://twitter.com/kwambiee" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Kwambiee-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a> 
-  <a href="kwambokaj2.jk@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  </a>
+  
+  [![Gmail Badge](https://img.shields.io/badge/-joy--kwamboka-white?logo=Gmail&logoColor=EA4335&style=plastic)](mailto:kwambokaj2.jk@gmail.com)
 <p>
 	<img src="https://komarev.com/ghpvc/?username=kwambiee&color=blueviolet&style=flat-square&label=Profile+Views" />
 </p>
+
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
