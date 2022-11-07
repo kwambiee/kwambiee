@@ -45,6 +45,12 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
   <a href="https://yatch-house.netlify.app/" target="_blank"> 
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white">
+  </a>
+  <a href="https://yatch-house.netlify.app/" target="_blank"> 
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-CC0000?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  </a>
+  <a href="https://yatch-house.netlify.app/" target="_blank"> 
     <img alt="Ruby on Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
   </a>
     <a href="https://yatch-house.netlify.app/" target="_blank"> 
