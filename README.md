@@ -21,7 +21,7 @@
 <p>💡 &nbsp;In my free time, I like to work on my side project.</p>
 <p>💻 &nbsp; I love building projects and learning new skills. You can have a look at my 👉<a href="https://kwambiee.github.io/First-Portfolio/">portfolio </a>
 <p>💬 &nbsp;Feel free to reach out to me for work opportunities or working alogside a project.</p>
-<p>🧩 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1wC49POJ5qwsuZOWT2Wrm2f01PqblMjOYejJngk4cDps/edit?usp=sharing">Résumé</a> for more details about me.</p>
+<p>🧩 &nbsp;Please have a look at my <a href="https://docs.google.com/document/d/1-TtjsWinEweOILzfhcfO6HdQZTNDTQst2HaT9NMIJcw/edit?usp=sharing" target="_blank" >Résumé</a> for more details about me.</p>
 
 <br />
 
